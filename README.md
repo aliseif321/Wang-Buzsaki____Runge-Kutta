@@ -6,6 +6,10 @@ The Wang-Buzsaki model uses the Hodgkin-Huxley formalism to describe a single-co
 Wang XJ, Buzsáki G (1996) Gamma oscillation by synaptic inhibition in a hippocampal interneuronal network model. J. Neurosci. 16: 6402–6413.
 
 
+![](https://github.com/aliseif321/Wang-Buzsaki_model_with_Runge-Kutta_4th_Order_Method_for_one_neuron/blob/main/spike.png?raw=true)
+
+
+
 Input Channels
 
                input(0) - Istim : input current (A)
